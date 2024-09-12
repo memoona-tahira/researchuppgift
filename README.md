@@ -1,6 +1,6 @@
 # researchuppgift
 ## ls
-ls command is used to list contentof the folder
+ls command is used to list content of the folder
 
 ## pwd
 present working directory
